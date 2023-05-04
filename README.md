@@ -1,2 +1,2 @@
 # AbstractFactory
-Método abstrato 
+Exemplo do padrão de projeto criacional Abstract Factory.
