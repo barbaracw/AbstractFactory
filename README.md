@@ -1,0 +1,2 @@
+# AbstractFactory
+Método abstrato 
